@@ -1,4 +1,4 @@
-         ## Hi👋 I'm Abdul Moiz Siddiqui
+## Hi👋 I'm Abdul Moiz Siddiqui
 A Full Stack Web Developer from Pakistan
 
 <!--
